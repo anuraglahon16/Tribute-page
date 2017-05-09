@@ -1,0 +1,23 @@
+.founder{
+  color:blue;
+  text-align:center;
+}
+body{
+ background-color:hsl(120, 25%, 55%);
+}
+img{
+  display:block;
+  margin:auto;
+  width:25%;
+  margin-top:5px;
+  height:350px;
+}
+.end{
+  text-align:center;
+}
+.connects{
+  color:white;
+  font-family:Monospace;
+  text-align:center;
+
+}
